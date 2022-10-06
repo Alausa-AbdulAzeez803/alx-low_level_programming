@@ -27,5 +27,4 @@ for (i = 0, x = min; x <= max; x++, i++)
 	ar[i] = x;
 
 return (ar);
-
 }
